@@ -1,0 +1,50 @@
+/* *{
+    border: 1px solid gray;
+} */
+body{
+    text-align: center;
+}
+
+/* Intro */
+#intro{
+    text-align: center;
+    padding: 200px 0;
+}
+#intro img{
+    border-radius: 100%;
+}
+
+/* Skills */
+#skills{
+    text-align: center;
+    padding: 120px 0;
+}
+.skill-label{
+    width: 100%;
+    background-color: #D2DAFF;
+}
+.skill-col{
+    padding: 0 2%;
+}
+.skill-box{
+    background-color: #CDF0EA;
+    margin: 5% 0;
+    border: 1px dotted gray;
+    border-radius: 2%;
+}
+#skills li, nav li{
+    list-style: none;
+}
+
+/* Projects */
+#projects{
+    padding: 120px 0;
+}
+.project-box{
+    padding: 3% 3%;
+}
+
+/* Contact */
+#contact{
+    padding: 120px 0;
+}
